@@ -1,0 +1,256 @@
+{
+  "collections": [
+    {
+      "id":0,
+      "name": "Edição limitada de Verão Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-1/image-product-1-thumbnail.jpg",
+            "images/product-1/image-product-2-thumbnail.jpg",
+            "images/product-1/image-product-3-thumbnail.jpg",
+            "images/product-1/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-1/image-product-1.jpg",
+          "images/product-1/image-product-2.jpg",
+          "images/product-1/image-product-3.jpg",
+          "images/product-1/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto basico da Sneakers é a sua companhia casual perfeita. Com um solado de alto resistencia, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 999,
+      "descount": 30
+    },
+    {
+      "id":1,
+      "name": "Edição limitada de Inverno Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-2/image-product-1-thumbnail.jpg",
+            "images/product-2/image-product-2-thumbnail.jpg",
+            "images/product-2/image-product-3-thumbnail.jpg",
+            "images/product-2/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-2/image-product-1.jpg",
+          "images/product-2/image-product-2.jpg",
+          "images/product-2/image-product-3.jpg",
+          "images/product-2/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto unico da Sneakers é a sua companhia para aquelas saidas de inverno favoritas. Com um solado de alta permeabilidade, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 349
+    },
+    {
+      "id":2,
+      "name": "Edição limitada de Outono Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-3/image-product-1-thumbnail.jpg",
+            "images/product-3/image-product-2-thumbnail.jpg",
+            "images/product-3/image-product-3-thumbnail.jpg",
+            "images/product-3/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-3/image-product-1.jpg",
+          "images/product-3/image-product-2.jpg",
+          "images/product-3/image-product-3.jpg",
+          "images/product-3/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto estiloso da Sneakers é a sua companhia para aqueles finais de tarde perfeitos. Com um solado de alto conforto, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 800,
+      "descount": 50
+    },
+    {
+      "id":3,
+      "name": "Edição limitada de Primavera Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-4/image-product-1-thumbnail.jpg",
+            "images/product-4/image-product-2-thumbnail.jpg",
+            "images/product-4/image-product-3-thumbnail.jpg",
+            "images/product-4/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-4/image-product-1.jpg",
+          "images/product-4/image-product-2.jpg",
+          "images/product-4/image-product-3.jpg",
+          "images/product-4/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto lindo da Sneakers é a sua companhia perfeita para aqueles passeios no parque. Com um solado de alto conforto, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 700
+    }
+  ],
+  "men": [
+    {
+      "id":4,
+      "name": "Edição Limitada de Ano Novo",
+      "images": {
+        "thumbnail": [
+            "images/product-5/image-product-1-thumbnail.jpg",
+            "images/product-5/image-product-2-thumbnail.jpg",
+            "images/product-5/image-product-3-thumbnail.jpg",
+            "images/product-5/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-5/image-product-1.jpg",
+          "images/product-5/image-product-2.jpg",
+          "images/product-5/image-product-3.jpg",
+          "images/product-5/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto basico da Sneakers é a sua companhia casual perfeita. Com um solado de alto resistencia, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 550,
+      "descount": 35
+    },
+    {
+      "id":5,
+      "name": "Edição Melhor do Carnaval Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-1/image-product-1-thumbnail.jpg",
+            "images/product-1/image-product-2-thumbnail.jpg",
+            "images/product-1/image-product-3-thumbnail.jpg",
+            "images/product-1/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-1/image-product-1.jpg",
+          "images/product-1/image-product-2.jpg",
+          "images/product-1/image-product-3.jpg",
+          "images/product-1/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto basico da Sneakers é a sua companhia casual perfeita. Com um solado de alto resistencia, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 700,
+      "descount": 20
+    },
+    {
+      "id":6,
+      "name": "Edição Limitada de Festa Junina Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-1/image-product-1-thumbnail.jpg",
+            "images/product-1/image-product-2-thumbnail.jpg",
+            "images/product-1/image-product-3-thumbnail.jpg",
+            "images/product-1/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-1/image-product-1.jpg",
+          "images/product-1/image-product-2.jpg",
+          "images/product-1/image-product-3.jpg",
+          "images/product-1/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto basico da Sneakers é a sua companhia casual perfeita. Com um solado de alto resistencia, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 400
+    },
+    {
+      "id":7,
+      "name": "Edição de Natal Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-1/image-product-1-thumbnail.jpg",
+            "images/product-1/image-product-2-thumbnail.jpg",
+            "images/product-1/image-product-3-thumbnail.jpg",
+            "images/product-1/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-1/image-product-1.jpg",
+          "images/product-1/image-product-2.jpg",
+          "images/product-1/image-product-3.jpg",
+          "images/product-1/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto basico da Sneakers é a sua companhia casual perfeita. Com um solado de alto resistencia, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 1000,
+      "descount": 50
+    }
+  ],
+  "women": [
+    {
+      "id":8,
+      "name": "Edição Estilo Carnavalesco Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-9/image-product-1-thumbnail.jpg",
+            "images/product-9/image-product-2-thumbnail.jpg",
+            "images/product-9/image-product-3-thumbnail.jpg",
+            "images/product-9/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-9/image-product-1.jpg",
+          "images/product-9/image-product-2.jpg",
+          "images/product-9/image-product-3.jpg",
+          "images/product-9/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto basico da Sneakers é a sua companhia casual perfeita. Com um solado de alto resistencia, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 900,
+      "descount": 50
+    },
+    {
+      "id":9,
+      "name": "Reedição de Verão Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-1/image-product-1-thumbnail.jpg",
+            "images/product-1/image-product-2-thumbnail.jpg",
+            "images/product-1/image-product-3-thumbnail.jpg",
+            "images/product-1/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-1/image-product-1.jpg",
+          "images/product-1/image-product-2.jpg",
+          "images/product-1/image-product-3.jpg",
+          "images/product-1/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto basico da Sneakers é a sua companhia casual perfeita. Com um solado de alto resistencia, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 790,
+      "descount": 20
+    },
+    {
+      "id":10,
+      "name": "Edição limitada de Festa Noturna Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-1/image-product-1-thumbnail.jpg",
+            "images/product-1/image-product-2-thumbnail.jpg",
+            "images/product-1/image-product-3-thumbnail.jpg",
+            "images/product-1/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-1/image-product-1.jpg",
+          "images/product-1/image-product-2.jpg",
+          "images/product-1/image-product-3.jpg",
+          "images/product-1/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto basico da Sneakers é a sua companhia casual perfeita. Com um solado de alto resistencia, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 500
+    },
+    {
+      "id":11,
+      "name": "Edição Inverno ou Verão Sneakers",
+      "images": {
+        "thumbnail": [
+            "images/product-1/image-product-1-thumbnail.jpg",
+            "images/product-1/image-product-2-thumbnail.jpg",
+            "images/product-1/image-product-3-thumbnail.jpg",
+            "images/product-1/image-product-4-thumbnail.jpg"
+          ],
+        "default": [
+          "images/product-1/image-product-1.jpg",
+          "images/product-1/image-product-2.jpg",
+          "images/product-1/image-product-3.jpg",
+          "images/product-1/image-product-4.jpg"
+          ]
+      },
+      "description": "Este conjunto basico da Sneakers é a sua companhia casual perfeita. Com um solado de alto resistencia, eles vão aguentar qualquer condição desafiadora que o clima pode lhe oferecer.",
+      "price": 999,
+      "descount": 50
+    }
+  ]
+}
